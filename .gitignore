@@ -1,4 +1,5 @@
 __pycache__/
 data/other_people/
+.ipynb_checkpoints/
 *.pyc
 *.png

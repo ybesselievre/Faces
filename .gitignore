@@ -1,0 +1,4 @@
+__pycache__/
+data/other_people/
+*.pyc
+*.png
